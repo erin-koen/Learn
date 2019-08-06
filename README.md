@@ -29,7 +29,7 @@ TODO: Fill out this long description.
 
 ## Maintainers
 
-[@@erin-koen](https://github.com/@erin-koen)
+[@erin-koen](https://github.com/@erin-koen)
 
 ## Contributing
 
