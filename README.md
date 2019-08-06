@@ -2,7 +2,7 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-> A repo that contains project used to learn new languages and frameworks.
+> A repo that contains projects used to learn new languages and frameworks.
 
 TODO: Fill out this long description.
 
