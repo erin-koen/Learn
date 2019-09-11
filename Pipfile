@@ -5,12 +5,15 @@ verify_ssl = true
 
 [dev-packages]
 pep8 = "*"
+autopep8 = "*"
 
 [packages]
 django = "*"
 pillow = "*"
 pep8 = "*"
 autopep8 = "*"
+requests = "*"
+querystring = "*"
 
 [requires]
 python_version = "3.7"
